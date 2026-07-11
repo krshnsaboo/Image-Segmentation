@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# Dataset
+data/
+
+# Runtime outputs
+outputs/
+
+# Checkpoints & exported models
+checkpoints/*.pt
+models/*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradio
+.gradio/
+
+*.egg-info/
